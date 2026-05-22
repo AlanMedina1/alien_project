@@ -1,0 +1,36 @@
+/[Lb]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Cc]o[Mm]l/
+/MemoryCaptures/
+/Logs/
+/UserSettings/
+
+# Carpetas de configuración de editores externos (Visual Studio, Rider, VS Code)
+/.vs/
+/.idea/
+/*.csproj
+/*.sln
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.opendb
+/*.IDB
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Crash reports de Unity
+/CrashReport*
+
+# Builds compiladas (por si exportas el juego dentro de la carpeta del proyecto)
+*.apk
+*.unitypackage
+*.exe
